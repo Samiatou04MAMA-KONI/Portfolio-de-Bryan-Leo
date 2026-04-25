@@ -3,7 +3,7 @@ export const aboutData = {
   title: "Graphiste Designer Créatif",
   bio: "Passionné par le design depuis plus de 3 ans, je transforme des idées en expériences visuelles mémorables. Mon approche allie créativité, stratégie et attention aux détails pour créer des designs qui ont un impact.",
   philosophy: "Je crois que le bon design n'est pas seulement esthétique, il doit raconter une histoire, résoudre un problème et créer une connexion émotionnelle avec l'audience.",
-  image: "/profil.jpg", // Photo placeholder
+  image: "/Profil.jpg", // Photo placeholder
   stats: [
     { number: "50+", label: "Projets réalisés" },
     { number: "30+", label: "Clients satisfaits" },
